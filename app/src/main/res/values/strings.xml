@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">ExpenseNote</string>
+    <string name="app_title">สมุดบันทึกรายรับ - รายจ่าย</string>
+    <string name="total_balance">ยอดเงินคงเหลือ</string>
+    <string name="total_income">รายรับรวม</string>
+    <string name="total_expense">รายจ่ายรวม</string>
+
+    <!-- Filter chips -->
+    <string name="filter_all">ทั้งหมด</string>
+    <string name="filter_income">รายรับ</string>
+    <string name="filter_expense">รายจ่าย</string>
+
+    <!-- Transaction detail -->
+    <string name="add_transaction">เพิ่มรายการใหม่</string>
+    <string name="edit_transaction">แก้ไขรายการ</string>
+    <string name="transaction_type">ประเภทรายการ</string>
+    <string name="type_expense">รายจ่าย</string>
+    <string name="type_income">รายรับ</string>
+    <string name="title_label">ชื่อรายการ</string>
+    <string name="title_hint">ตัวอย่าง: ค่าอาหารกลางวัน, เงินเดือน</string>
+    <string name="amount_label">จำนวนเงิน (บาท)</string>
+    <string name="amount_hint">0.00</string>
+    <string name="category_label">หมวดหมู่</string>
+    <string name="date_label">วันที่บันทึก</string>
+    <string name="note_label">หมายเหตุ (ถ้ามี)</string>
+    <string name="note_hint">บันทึกเพิ่มเติม...</string>
+
+    <!-- Categories -->
+    <string name="cat_food">อาหาร/เครื่องดื่ม</string>
+    <string name="cat_transport">เดินทาง/น้ำมัน</string>
+    <string name="cat_shopping">ช้อปปิ้ง</string>
+    <string name="cat_entertainment">บันเทิง/พักผ่อน</string>
+    <string name="cat_bills">ค่าน้ำ/ค่าไฟ/บิล</string>
+    <string name="cat_salary">เงินเดือน/โบนัส</string>
+    <string name="cat_other">อื่นๆ</string>
+
+    <!-- Actions -->
+    <string name="btn_save">บันทึก</string>
+    <string name="btn_cancel">ยกเลิก</string>
+    <string name="btn_delete">ลบ</string>
+    <string name="confirm_delete_title">ยืนยันการลบ</string>
+    <string name="confirm_delete_msg">คุณต้องการลบรายการนี้ใช่หรือไม่?</string>
+    <string name="empty_list_msg">ยังไม่มีรายการบันทึก\nกดปุ่ม + ด้านล่างเพื่อเพิ่มรายการ</string>
+
+    <string name="currency_format">฿%1$s</string>
+    <string name="recent_transactions">รายการล่าสุด</string>
+
+    <!-- Error messages -->
+    <string name="error_empty_title">กรุณากรอกชื่อรายการ</string>
+    <string name="error_invalid_amount">กรุณากรอกจำนวนเงินให้ถูกต้อง</string>
+</resources>
